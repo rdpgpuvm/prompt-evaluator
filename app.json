@@ -1,0 +1,12 @@
+{
+  "name": "Prompt Quality Evaluator",
+  "description": "LangChain-based prompt quality evaluator API",
+  "repository": "https://github.com/rdpgpuvm/prompt-evaluator",
+  "keywords": ["python", "flask", "langchain", "prompt", "evaluator"],
+  "env": {
+    "OPENAI_API_KEY": {
+      "description": "OpenAI API key for LangChain",
+      "required": true
+    }
+  }
+}
